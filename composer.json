@@ -1,9 +1,11 @@
 {
     "name": "xv1t/shell-test",
     "description": "Test CakePHP plugin for testing Shell",
+    "homepage": "https://github.com/xv1t/shell-test",
     "type": "cakephp-plugin",
     "require": {
-        "cakephp/cakephp": "3.7.7"
+        "php": ">=5.6",
+        "cakephp/cakephp": "^3.7.0"
     },
     "authors": [
         {
