@@ -1,0 +1,14 @@
+{
+    "name": "xv1t/shell-test",
+    "description": "Test CakePHP plugin for testing Shell",
+    "type": "cakephp-plugin",
+    "require": {
+        "cakephp/cakephp": "3.7.7"
+    },
+    "authors": [
+        {
+            "name": "xv1t",
+            "email": "xv1t@yandex.ru"
+        }
+    ]
+}
